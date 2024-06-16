@@ -5,5 +5,5 @@
       "version": "3.8"
     }
   },
-  "updateContentCommand": "curl 'https://www.toptal.com/developers/gitignore/api/python' >> .gitignore && pip install 'mkdocs-material~=9.0'"
+  "updateContentCommand": "pip install 'mkdocs-material~=9.0'"
 }
